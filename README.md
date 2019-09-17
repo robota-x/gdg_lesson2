@@ -18,7 +18,9 @@ This file is written in [markdown](https://www.markdownguide.org/). It's a marku
 
 
 ### Importing a npm module
-1) npm install chalk (intro on what it does)
+1) npm init and npm install chalk (intro on what it does)
 2) run again, no effect
 3) import, run, no effect
 4) make use of the module
+5) review package.json
+6) if time, pick a random colour

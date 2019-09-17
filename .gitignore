@@ -1,0 +1,11 @@
+# This is a .gitignore file. it tell git (the source control system) to ignore certain files.
+# It's good practice, it avoid saving secrets and/or heavy files alongside the code
+
+# Node
+node_modules
+
+# OSX
+.DS_STORE
+
+# VS Code
+.vscode

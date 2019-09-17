@@ -1,4 +1,5 @@
-var helpers = require('./helpers.js')
+const chalk = require("chalk");
+const helpers = require("./helpers.js");
 
 const nameList = ["lorenzo", "second_name", "third_name", "fourth_name"];
 
